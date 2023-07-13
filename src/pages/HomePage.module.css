@@ -1,0 +1,10 @@
+.card {
+  display: flex;
+}
+.news {
+  text-transform: uppercase;
+  font-size: medium;
+  font-weight: lighter;
+  color: #9c4e0a;
+  text-align: center;
+}
